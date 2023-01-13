@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.347149cb.css",
+    "main.js": "/static/js/main.b12ce7c7.js",
+    "static/js/787.2c288c0c.chunk.js": "/static/js/787.2c288c0c.chunk.js",
+    "static/media/aboutus.jpg": "/static/media/aboutus.93ee61a010e3d9f65523.jpg",
+    "static/media/cert-2.png": "/static/media/cert-2.75b3fb9492e063934da4.png",
+    "static/media/cert-1.png": "/static/media/cert-1.87b1b33ada0f7eee35c6.png",
+    "static/media/banner.jpg": "/static/media/banner.47f93b7ecc55cbe92be2.jpg",
+    "static/media/prod-1.png": "/static/media/prod-1.076ee68d21890992f7f1.png",
+    "static/media/prod-4.png": "/static/media/prod-4.2fc512ffbdccccb3fef3.png",
+    "static/media/prod-2.png": "/static/media/prod-2.a53d3bd983d7fb7bb819.png",
+    "static/media/cert-3.png": "/static/media/cert-3.3f218210d92c54a768bd.png",
+    "static/media/cert-4.png": "/static/media/cert-4.d09707fc825f7b084764.png",
+    "static/media/prod-3.png": "/static/media/prod-3.89ad81cb245554c968bf.png",
+    "static/media/cart.svg": "/static/media/cart.2fc9c3c544c94fb5d32aa19358dbad0c.svg",
+    "static/media/instagram.svg": "/static/media/instagram.6d5171d58481634549447b4387ccfe0c.svg",
+    "static/media/whatsapp.svg": "/static/media/whatsapp.187b26e281548321e37cea6b1d97d41e.svg",
+    "index.html": "/index.html",
+    "static/media/menu.svg": "/static/media/menu.81f139b24fc9df42f8bd22399e490792.svg",
+    "static/media/cross.svg": "/static/media/cross.464ffe8649336b702d16cc9145cfb4a8.svg",
+    "static/media/facebook.svg": "/static/media/facebook.e6b856b56c51f12e2816f77522ce4a54.svg",
+    "main.347149cb.css.map": "/static/css/main.347149cb.css.map",
+    "main.b12ce7c7.js.map": "/static/js/main.b12ce7c7.js.map",
+    "787.2c288c0c.chunk.js.map": "/static/js/787.2c288c0c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.347149cb.css",
+    "static/js/main.b12ce7c7.js"
+  ]
+}
